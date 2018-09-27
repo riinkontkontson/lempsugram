@@ -1,6 +1,6 @@
 # lempsugram
 
-Instagram for lemps. Finally!
+Instagram for Lemps. Finally!
 
 ## Brief
 
@@ -22,8 +22,12 @@ Follow this design:
 
 - responsive design just like in instagram
 
+## Tips
+- Planning the workflow: decide on the tasks and share the responsibilites before you start coding
+- Watch out for merge conflicts - try to work on separate components at all times
+- Commit early and often
+- Have explanatory commit messages
+
 ## Getting photos of lemps
 
-Lemps generously shared some pictures here: 
-
-goo.gl/snaSvW
+Lemps generously shared some pictures [here](goo.gl/snaSvW)
