@@ -1,3 +1,30 @@
 body {
 	background-color:#fafafa;
 }
+
+header {
+	border-bottom: 1px solid lightgrey;
+	padding: 8px;
+}
+
+.logo {
+	margin: 16px;
+	margin-right: 0;
+	padding-right: 16px;
+	height: 24px;
+	border-right: 0.5px solid black;
+}
+
+.logoText {
+	padding: 10px;
+	width: 103px;
+	height: 29px;
+	position: relative;
+}
+
+.syda {
+	height: 29px;
+	position: absolute;
+	top: 30px;
+	right: 30px;
+}
